@@ -8,6 +8,6 @@ const CONFIG_APP = {
     namaVendor: "TitiknoL CreativE",
 
     // 2. Google Drive API Key (Penting agar galeri bisa memuat foto)
-    googleApiKey: "AIzaSyAZczbLeVTXl-QKqLDJFWQLCd-lW9jqqxo",
+    googleApiKey: "AIzaSyAB5qQZ33wpxFizfgaHt5AwpD5XP2heYV8",
     whatsappAdmin: "6282311188400" // <-- TAMBAHKAN BARIS INI (Ganti dengan nomor WA admin)
 };
